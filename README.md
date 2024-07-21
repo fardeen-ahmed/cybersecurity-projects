@@ -1,2 +1,5 @@
-# cybersecurity-projects
-A curated list of cybersecurity projects that one should make during there college / university 
+# Awesome Cybersecurity Projects
+This repository consists of different projects that you can build to gain knowledge, work experience as well as use it for your freelance journey. 
+<br>
+| Projects | Section | Description |
+| Web-Application Fuzzers | Work Experience + Freelance  | This project will help you learn to create your own first web-app fuzzer |
